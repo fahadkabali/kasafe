@@ -41,12 +41,12 @@ const ForgotPasswordPage: React.FC = () => {
                   height={32}
                 /> */}
               </Link>
-              <div className="px-10">
-              <p className="mb-3 text-3xl font-medium text-dark dark:text-white">
+              <div className="px-10 pt-20">
+              <p className="mb-3 text-2xl font-medium text-dark dark:text-gray-700">
               Forget your password?
               </p>
 
-              <h1 className="mb-4 text-4xl font-bold text-dark dark:text-white sm:text-heading-3">
+              <h1 className="mb-4 text-3xl font-bold text-dark dark:text-gray-600 sm:text-heading-3">
               Reset Password!
               </h1>
 
